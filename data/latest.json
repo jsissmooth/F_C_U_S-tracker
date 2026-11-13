@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "ticker": "FCUS",
   "holdings": [
     {
@@ -7,63 +7,63 @@
       "name": "Cleveland-Cliffs Inc",
       "identifier": "185899101",
       "quantity": 139618.0,
-      "price": 13.14,
-      "market_value": 1834580.52,
-      "pct_of_fund": 2.39
+      "price": 13.07,
+      "market_value": 1824807.26,
+      "pct_of_fund": 2.37
     },
     {
       "ticker": "CRL",
       "name": "Charles River Laboratories International Inc",
       "identifier": "159864107",
       "quantity": 7647.0,
-      "price": 342.69,
-      "market_value": 2620550.43,
-      "pct_of_fund": 3.41
+      "price": 340.81,
+      "market_value": 2606174.07,
+      "pct_of_fund": 3.39
     },
     {
       "ticker": "CRWD",
       "name": "Crowdstrike Holdings Inc",
       "identifier": "22788C105",
       "quantity": 10706.0,
-      "price": 229.06,
-      "market_value": 2452316.36,
-      "pct_of_fund": 3.19
+      "price": 229.87,
+      "market_value": 2460988.22,
+      "pct_of_fund": 3.2
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corp",
       "identifier": "166764100",
       "quantity": 11355.0,
-      "price": 213.28,
-      "market_value": 2421794.4,
-      "pct_of_fund": 3.15
+      "price": 216.35,
+      "market_value": 2456654.25,
+      "pct_of_fund": 3.2
     },
     {
       "ticker": "DELL",
       "name": "Dell Technologies Inc",
       "identifier": "24703L202",
       "quantity": 8619.0,
-      "price": 373.68,
-      "market_value": 3220747.92,
-      "pct_of_fund": 4.19
+      "price": 371.17,
+      "market_value": 3199114.23,
+      "pct_of_fund": 4.16
     },
     {
       "ticker": "DINO",
       "name": "HF Sinclair Corp",
       "identifier": "403949100",
       "quantity": 30319.0,
-      "price": 101.205,
-      "market_value": 3068434.4,
-      "pct_of_fund": 3.99
+      "price": 102.15,
+      "market_value": 3097085.85,
+      "pct_of_fund": 4.03
     },
     {
       "ticker": "ESTC",
       "name": "Elastic NV",
       "identifier": "N14506104",
       "quantity": 21802.0,
-      "price": 87.31,
-      "market_value": 1903532.62,
-      "pct_of_fund": 2.48
+      "price": 89.06,
+      "market_value": 1941686.12,
+      "pct_of_fund": 2.53
     },
     {
       "ticker": "FGXXX",
@@ -79,17 +79,17 @@
       "name": "Glaukos Corp",
       "identifier": "377322102",
       "quantity": 14188.0,
-      "price": 247.16,
-      "market_value": 3506706.08,
-      "pct_of_fund": 4.56
+      "price": 246.03,
+      "market_value": 3490673.64,
+      "pct_of_fund": 4.54
     },
     {
       "ticker": "GTLB",
       "name": "Gitlab Inc",
       "identifier": "37637K108",
       "quantity": 49392.0,
-      "price": 47.32,
-      "market_value": 2337229.44,
+      "price": 47.28,
+      "market_value": 2335253.76,
       "pct_of_fund": 3.04
     },
     {
@@ -97,197 +97,197 @@
       "name": "Halozyme Therapeutics Inc",
       "identifier": "40637H109",
       "quantity": 20076.0,
-      "price": 101.68,
-      "market_value": 2041327.68,
-      "pct_of_fund": 2.66
+      "price": 100.67,
+      "market_value": 2021050.92,
+      "pct_of_fund": 2.63
     },
     {
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise Co",
       "identifier": "42824C109",
       "quantity": 50562.0,
-      "price": 50.25,
-      "market_value": 2540740.5,
-      "pct_of_fund": 3.31
+      "price": 50.16,
+      "market_value": 2536189.92,
+      "pct_of_fund": 3.3
     },
     {
       "ticker": "MPC",
       "name": "Marathon Petroleum Corp",
       "identifier": "56585A102",
       "quantity": 7866.0,
-      "price": 402.84,
-      "market_value": 3168739.44,
-      "pct_of_fund": 4.12
+      "price": 412.85,
+      "market_value": 3247478.1,
+      "pct_of_fund": 4.22
     },
     {
       "ticker": "MRNA",
       "name": "Moderna Inc",
       "identifier": "60770K107",
       "quantity": 15371.0,
-      "price": 248.69,
-      "market_value": 3822613.99,
-      "pct_of_fund": 4.98
+      "price": 231.35,
+      "market_value": 3556080.85,
+      "pct_of_fund": 4.62
     },
     {
       "ticker": "NTAP",
       "name": "NetApp Inc",
       "identifier": "64110D104",
       "quantity": 10778.0,
-      "price": 183.12,
-      "market_value": 1973667.36,
-      "pct_of_fund": 2.57
+      "price": 186.08,
+      "market_value": 2005570.24,
+      "pct_of_fund": 2.61
     },
     {
       "ticker": "NTRA",
       "name": "Natera Inc",
       "identifier": "632307104",
       "quantity": 6801.0,
-      "price": 319.82,
-      "market_value": 2175095.82,
-      "pct_of_fund": 2.83
+      "price": 322.94,
+      "market_value": 2196314.94,
+      "pct_of_fund": 2.86
     },
     {
       "ticker": "OKTA",
       "name": "Okta Inc",
       "identifier": "679295105",
       "quantity": 18312.0,
-      "price": 182.25,
-      "market_value": 3337362.0,
-      "pct_of_fund": 4.34
+      "price": 182.54,
+      "market_value": 3342672.48,
+      "pct_of_fund": 4.35
     },
     {
       "ticker": "P",
       "name": "Everpure Inc",
       "identifier": "74624M102",
       "quantity": 17620.0,
-      "price": 106.5,
-      "market_value": 1876530.0,
-      "pct_of_fund": 2.44
+      "price": 110.1,
+      "market_value": 1939962.0,
+      "pct_of_fund": 2.52
     },
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks Inc",
       "identifier": "697435105",
       "quantity": 5661.0,
-      "price": 334.47,
-      "market_value": 1893434.67,
-      "pct_of_fund": 2.46
+      "price": 322.66,
+      "market_value": 1826578.26,
+      "pct_of_fund": 2.38
     },
     {
       "ticker": "PAYC",
       "name": "Paycom Software Inc",
       "identifier": "70432V102",
       "quantity": 9731.0,
-      "price": 242.66,
-      "market_value": 2361324.46,
-      "pct_of_fund": 3.07
+      "price": 248.84,
+      "market_value": 2421462.04,
+      "pct_of_fund": 3.15
     },
     {
       "ticker": "PSX",
       "name": "Phillips 66",
       "identifier": "718546104",
       "quantity": 12357.0,
-      "price": 258.68,
-      "market_value": 3196508.76,
-      "pct_of_fund": 4.16
+      "price": 262.91,
+      "market_value": 3248778.87,
+      "pct_of_fund": 4.23
     },
     {
       "ticker": "RBRK",
       "name": "Rubrik Inc",
       "identifier": "781154109",
       "quantity": 29558.0,
-      "price": 109.26,
-      "market_value": 3229507.08,
-      "pct_of_fund": 4.2
+      "price": 110.38,
+      "market_value": 3262612.04,
+      "pct_of_fund": 4.24
     },
     {
       "ticker": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
       "identifier": "75886F107",
       "quantity": 2062.0,
-      "price": 959.41,
-      "market_value": 1978303.42,
-      "pct_of_fund": 2.58
+      "price": 951.19,
+      "market_value": 1961353.78,
+      "pct_of_fund": 2.55
     },
     {
       "ticker": "RS",
       "name": "Reliance Inc",
       "identifier": "759509102",
       "quantity": 4463.0,
-      "price": 429.88,
-      "market_value": 1918554.44,
-      "pct_of_fund": 2.5
+      "price": 433.69,
+      "market_value": 1935558.47,
+      "pct_of_fund": 2.52
     },
     {
       "ticker": "SN",
       "name": "SharkNinja Inc",
       "identifier": "G8068L108",
       "quantity": 12142.0,
-      "price": 226.93,
-      "market_value": 2755384.06,
-      "pct_of_fund": 3.59
+      "price": 220.14,
+      "market_value": 2672939.88,
+      "pct_of_fund": 3.48
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
       "identifier": "833445109",
       "quantity": 8881.0,
-      "price": 301.22,
-      "market_value": 2675134.82,
-      "pct_of_fund": 3.48
+      "price": 298.7,
+      "market_value": 2652754.7,
+      "pct_of_fund": 3.45
     },
     {
       "ticker": "TEAM",
       "name": "Atlassian Corp",
       "identifier": "049468101",
       "quantity": 18096.0,
-      "price": 152.44,
-      "market_value": 2758554.24,
-      "pct_of_fund": 3.59
+      "price": 152.29,
+      "market_value": 2755839.84,
+      "pct_of_fund": 3.58
     },
     {
       "ticker": "U",
       "name": "Unity Software Inc",
       "identifier": "91332U101",
       "quantity": 51232.0,
-      "price": 49.65,
-      "market_value": 2543668.8,
-      "pct_of_fund": 3.31
+      "price": 50.18,
+      "market_value": 2570821.76,
+      "pct_of_fund": 3.34
     },
     {
       "ticker": "VEEV",
       "name": "Veeva Systems Inc",
       "identifier": "922475108",
       "quantity": 6438.0,
-      "price": 304.77,
-      "market_value": 1962109.26,
-      "pct_of_fund": 2.55
+      "price": 302.42,
+      "market_value": 1946979.96,
+      "pct_of_fund": 2.53
     },
     {
       "ticker": "VLO",
       "name": "Valero Energy Corp",
       "identifier": "91913Y100",
       "quantity": 8888.0,
-      "price": 363.71,
-      "market_value": 3232654.48,
-      "pct_of_fund": 4.21
+      "price": 374.95,
+      "market_value": 3332555.6,
+      "pct_of_fund": 4.33
     },
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corp",
       "identifier": "30233Q108",
       "quantity": 11031.0,
-      "price": 166.71,
-      "market_value": 1838978.01,
-      "pct_of_fund": 2.39
+      "price": 169.78,
+      "market_value": 1872843.18,
+      "pct_of_fund": 2.44
     },
     {
       "ticker": "Cash&Other",
       "name": "Cash & Other",
       "identifier": "Cash&Other",
-      "quantity": -3973.93,
+      "quantity": -8717.61,
       "price": 1.0,
-      "market_value": -3973.93,
+      "market_value": -8717.61,
       "pct_of_fund": -0.01
     }
   ]
